@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Compilados Java
+*.class
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
