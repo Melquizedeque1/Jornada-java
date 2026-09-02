@@ -1,6 +1,6 @@
 package controlefluxo;
 
-public class Tabuada {
+public class TabuadaWhile {
 
     public static void main(String[] args){
 
